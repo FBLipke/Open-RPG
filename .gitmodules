@@ -10,3 +10,6 @@
 [submodule "OpenRPG-Engine/contrib/glew"]
 	path = OpenRPG-Engine/contrib/glew
 	url = https://github.com/Perlmint/glew-cmake.git
+[submodule "OpenRPG-Engine/contrib/glew-cmake"]
+	path = OpenRPG-Engine/contrib/glew-cmake
+	url = https://github.com/Perlmint/glew-cmake.git
