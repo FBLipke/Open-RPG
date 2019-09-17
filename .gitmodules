@@ -9,4 +9,4 @@
 	url = https://github.com/glfw/glfw.git
 [submodule "OpenRPG-Engine/contrib/glew"]
 	path = OpenRPG-Engine/contrib/glew
-	url = https://github.com/nigels-com/glew.git
+	url = https://github.com/Perlmint/glew-cmake.git
