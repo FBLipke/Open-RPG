@@ -43,8 +43,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>$(SolutionDir)inc;$(SolutionDir)src;$(IncludePath)</IncludePath>
-    <LibraryPath>$(SolutionDir)lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)inc;$(SolutionDir)src;$(SolutionDir)OpenRPG-Engine\contrib\glew-cmake\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)OpenRPG-Engine\contrib\glew-cmake\lib\Debug\x64;$(SolutionDir)OpenRPG-Engine\contrib\glfw\src\Debug\;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>$(SolutionDir)inc;$(SolutionDir)src;$(IncludePath)</IncludePath>
